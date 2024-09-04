@@ -1,0 +1,51 @@
+.menu{
+    text-align:center;
+    font-family:sans-serif;
+    Font-size:25px;
+    color:rgb(37, 50, 36);
+    margin-top:45px;
+    text-decoration:underline;
+    text-decoration-color:orange;
+    text-underline-offset:0.5rem;
+    
+}
+.btn-container{
+    display:flex;
+    justify-content:center;
+    margin-right:25px;
+}
+.filter-btn{
+    background-color:white;
+    color:black;
+    border:1px solid orange;
+    padding:10px;
+    border-radius:5px;
+}
+.filter-btn:hover{
+    background:orange;
+}
+.pancak{
+    width:200px;
+    height:150px;
+    margin-top:20px;
+    border:2px solid orange;
+    border-radius:5px;
+    box-shadow:2px 2px 4px rgba(129, 125, 125, 0.763);
+}
+.item-info{
+    display:inline;
+    font-family:sans-serif;
+}
+
+.price{
+    color:orange;
+}
+.item-text{
+    font-size:12px;
+    color:grey;
+}
+div{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+}
